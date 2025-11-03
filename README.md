@@ -2,14 +2,14 @@
 
 <img width="898" height="622" alt="Captura" src="https://github.com/user-attachments/assets/b2c47b83-8406-4427-8125-c07e71838bc6" />
 
-============================================
+=========================
           PAK TOOL - EXECUTAVEL STANDALONE
           Unreal Engine PAK Manager - Edicao Completa
-============================================
+=========================
 
 Este executavel funciona SEM Python, SEM instalacao, SEM internet!
 
-============================================
+=========================
 ✨ ADICIONAR ARQUIVOS
    - Adicione novos arquivos ao PAK
    - Escolha o caminho interno
@@ -41,9 +41,9 @@ Este executavel funciona SEM Python, SEM instalacao, SEM internet!
    - ✏️ Modificado - Arquivo editado
    - 🗑️ Deletado - Arquivo removido
 
-============================================
+=========================
 COMO USAR
-============================================
+=========================
 
 1. ABRIR PAK
    - Clique em "Abrir .PAK"
@@ -83,9 +83,9 @@ COMO USAR
    - Selecione a pasta com arquivos
    - Escolha o nome do PAK
 
-============================================
+=========================
 FUNCIONALIDADES
-============================================
+=========================
 
 VISUALIZACAO:
 ✓ Arvore de arquivos organizada por tipo
@@ -114,9 +114,9 @@ CRIACAO:
 ✓ Manter estrutura original
 ✓ Suporte versoes UE4 e UE5
 
-============================================
+=========================
 ATALHOS DE TECLADO
-============================================
+=========================
 
 EDITOR DE TEXTO:
 Ctrl+S     - Salvar arquivo
@@ -128,9 +128,9 @@ Duplo Clique  - Visualizar/Editar
 Botao Direito - Menu de opcoes
 F5            - Atualizar lista
 
-============================================
+=========================
 TIPOS DE ARQUIVO SUPORTADOS
-============================================
+=========================
 
 TEXTO (Editavel):
 .ini, .cfg, .txt, .log, .xml, .json, .md, .csv
@@ -143,9 +143,9 @@ Todos os outros (extrair apenas)
 
 * DDS pode nao funcionar dependendo do formato
 
-============================================
+=========================
 FLUXO DE TRABALHO TIPICO
-============================================
+=========================
 
 MODIFICAR ARQUIVO .INI:
 1. Abra o PAK
@@ -172,25 +172,25 @@ SUBSTITUIR TEXTURA:
 5. Clique em "Salvar PAK Como"
 6. Pronto!
 
-============================================
+=========================
 REQUISITOS
-============================================
+=========================
 
 ✓ Windows 7/8/10/11 (64-bit)
 ✓ 2 GB RAM (4 GB recomendado)
 ✓ Nenhuma dependencia externa!
 
-============================================
+=========================
 PROBLEMAS CONHECIDOS
-============================================
+=========================
 
 - Arquivos DDS podem nao ser visualizados (limitacao do PIL)
 - Arquivos muito grandes (>500MB) podem demorar para carregar
 - PAKs criptografados nao sao suportados
 
-============================================
+=========================
 DICAS
-============================================
+=========================
 
 - Sempre teste o PAK modificado antes de usar em producao
 - Faca backup do PAK original antes de modificar
@@ -198,6 +198,6 @@ DICAS
 - Arquivos modificados sao marcados com ✏️ na lista
 - Verifique a aba "Informacoes" para ver todas as modificacoes
 
-============================================
+=========================
 
 Desenvolvido por Manus AI
